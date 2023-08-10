@@ -1,0 +1,28 @@
+.loginPage{
+    background: url('../public/images/bg_image.jpg');
+    background: linear-gradient(rgba(11,11,11,0.5),rgba(10,10,10,0.5),url('../public/images/bg_image.jpg'));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm{
+    background-color: rgba(76, 78, 82, 0.6);
+    color: rgb(255, 255, 255);
+}
+
+.student_image{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.addbg{
+    background-color: #6c757d85;
+}
+.empImg img{
+    width: 370px;
+    height: 370px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
